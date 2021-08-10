@@ -1,0 +1,9 @@
+Journaling app - you can create and save new journal entries, organize journal entries into categories, and search for past entries.
+
+Random workout generator - when you're unsure of what you want to do for your workout. You can choose what difficulty you want your workout to be and then generate a workout based on that difficulty.
+
+Random fun activity generator - we've all been in a position where we're with friends trying to figure out what to do and no one can come up with anything. This app will randomly generate a fun activity for you and your friends. 
+
+Basketball meetup-like website - people can either register as a team, or as an individual, and then based on their location meet up with other players and teams to play together. Can also post tournaments for teams to register for and participate in. 
+
+Habit/ Goal tracker - helps you keep track of your progress in developing new habits, and reaching your goals. 
